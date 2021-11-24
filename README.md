@@ -1,4 +1,3 @@
-# ActividadIntegradoraA01652570
-Unity package y .pdf de la actividad integradora
+# Actividad Integradora
 
 Diego Herrera Olmos A01652570
